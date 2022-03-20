@@ -27,12 +27,6 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![test](https://img.shields.io/badge/-In%20Progress-brightgreen?style=for-the-badge)![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-
-### Block-Chain Development
-
-![test](https://img.shields.io/badge/-In%20Progress-brightgreen?style=for-the-badge)![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![test](https://img.shields.io/badge/-In%20Progress-brightgreen?style=for-the-badge)![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
