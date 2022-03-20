@@ -43,8 +43,6 @@
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
-
 ## 📈 Stats
 
 <div align="center">
