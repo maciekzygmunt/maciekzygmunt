@@ -4,7 +4,7 @@
 
 🎓 I am Maciej Zygmunt, a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Bachelor in **Computer Science** and will graduate in 2024.
 
-👨‍💻 I enjoy learning on my own. I am really enthusiastic about learning new technology. My goal for 2022 is to learn **Next.js**, **Node.js** and **Blockchain development & DApps**. 
+👨‍💻 I enjoy learning on my own. I am really enthusiastic about learning new technology.
 
 🌍 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies are mainly **traveling** and **football**.
 
@@ -39,6 +39,16 @@
 ### Design Tools
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🎯 2022 Goals
+- [x] **Next.js**
+- [ ] **TypeScript**
+- [ ] **Tailwind CSS**
+- [ ] **Node.js**
+- [ ] **Express**
+- [ ] **MongoDB**
+- [ ] **Solidity**
+
 
 ## 📈 Stats
 
