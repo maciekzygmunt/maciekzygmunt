@@ -31,6 +31,12 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 <!-- ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) -->
 
+### Back-End Development
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### Backend as a Service (BaaS)
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -50,9 +56,9 @@
 - [x] ~**Next.js**~
 - [x] ~**TypeScript**~
 - [x] ~**Tailwind CSS**~
-- [ ] **Node.js**
-- [ ] **Express**
-- [ ] **MongoDB**
+- [x] ~**Node.js**~
+- [x] ~**Express**~
+- [x] ~**MongoDB**~
 - [ ] **Solidity**
 
 
