@@ -52,15 +52,10 @@
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🎯 2022 Goals
-- [x] ~**Next.js**~
-- [x] ~**TypeScript**~
-- [x] ~**Tailwind CSS**~
-- [x] ~**Node.js**~
-- [x] ~**Express**~
-- [x] ~**MongoDB**~
+## 🎯 2023 Goals
 - [ ] **Solidity**
-
+- [ ] **React Native**
+- [ ] **Rust**
 
 ## 📈 Stats
 
