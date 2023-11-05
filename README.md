@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Maciej Zygmunt, a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Bachelor in **Computer Science** and will graduate in 2024.
+🎓 I am Maciej Zygmunt, a **Software Engineer** at L2BEAT💗. I am also Pursuing my Bachelor in **Computer Science** and will graduate in 2024.
 
 👨‍💻 I enjoy learning on my own. I am really enthusiastic about learning new technology.
 
@@ -21,28 +21,19 @@
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![styled](https://img.shields.io/badge/Styled_Components-D1678B?style=for-the-badge&logo=styled-components&logoColor=F1C03B)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![chakra-ui](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-<!-- ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) -->
 
 ### Back-End Development
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Koa.js](https://img.shields.io/badge/Koa.js-ffffff.svg?style=for-the-badge&logo=koa&logoColor=black)
 
 ### Backend as a Service (BaaS)
 
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### Platform as a Service (PaaS)
 
@@ -51,11 +42,6 @@
 ### Design Tools
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
-## 🎯 2023 Goals
-- [ ] **Solidity**
-- [ ] **React Native**
-- [ ] **Rust**
 
 ## 📈 Stats
 
